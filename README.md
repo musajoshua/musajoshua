@@ -1,5 +1,14 @@
 ### Hi there 👋🏾, my name is Musa Joshua
 
+I am a full-stack software engineer. I am currently in 
+my final year at Landmark University studying 
+Computer Science. I am enthusiastic about technology 
+and enjoy developing scalable and practical solutions 
+to real-life problems.
+Outside tech, I am a huge soccer and basketball fan. 
+I am also passionate about photography, particularly 
+fine-art and nature.
+
 <!--
 **musajoshua/musajoshua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
