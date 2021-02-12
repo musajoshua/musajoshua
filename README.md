@@ -1,9 +1,7 @@
 ### Hi there 👋🏾, my name is Musa Joshua
 
-I am a full-stack software engineer. I am currently in 
-my final year at Landmark University studying 
-Computer Science. I am enthusiastic about technology 
-and enjoy developing scalable and practical solutions 
+I am a full-stack software engineer and a graduate of Computer Science from Landmark University. I am enthusiastic about technology 
+and enjoy developing scale-able and practical solutions 
 to real-life problems.
 Outside tech, I am a huge soccer and basketball fan. 
 I am also passionate about photography, particularly 
