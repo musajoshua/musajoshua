@@ -1,9 +1,8 @@
 ### Hi there 👋🏾, my name is Musa Joshua
 
-I am a software engineer. I am enthusiastic about technology 
-and enjoy developing scale-able and practical solutions 
-to real-life problems.
-I am currently interested in deep learning.
+I am a versatile Software Engineer with 4+ years of experience in front-end development with JavaScript, TypeScript, Redux.js, and React.js. 
+With a Computer Science academic background and solid math and coding skills, I have consistently optimized solutions and solved complex technical challenges individually and in collaboration with other teams remotely.
+In addition, I combine end-to-end testing knowledge with hands-on experience translating UI designs for mobile and desktop solutions.
 Outside tech, I am a huge soccer and basketball fan. 
 I am also passionate about photography, particularly 
 fine-art and nature.
