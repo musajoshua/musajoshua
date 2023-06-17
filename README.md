@@ -1,11 +1,11 @@
-### Hi there 👋🏾, my name is Musa Joshua
+### Hi there 👋🏾, my name is Joshua
 
-I am a versatile Software Engineer with 4+ years of experience in front-end development with JavaScript, TypeScript, Redux.js, and React.js. 
-With a Computer Science academic background and solid math and coding skills, I have consistently optimized solutions and solved complex technical challenges individually and in collaboration with other teams remotely.
-In addition, I combine end-to-end testing knowledge with hands-on experience translating UI designs for mobile and desktop solutions.
-Outside tech, I am a huge soccer and basketball fan. 
-I am also passionate about photography, particularly 
-fine-art and nature.
+I am a versatile software engineer with 5+ years of experience, coupled with a solid academic background in Computer Science and proficient math and problem-solving skills.
+
+I am liberal, open-minded, and believe everything is relative. I love simplicity but enjoy complex concepts.
+
+Other than tech, I enjoy watching soccer (Liverpool fan), NBA (LA Lakers fan), and listening to music. 
+I am also passionate about photography, particularly fine art and nature.
 
 <!--
 **musajoshua/musajoshua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
