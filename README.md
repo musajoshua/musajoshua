@@ -4,7 +4,7 @@ I am a versatile software engineer with 5+ years of experience, coupled with a s
 
 I am liberal, open-minded, and believe everything is relative. I love simplicity but enjoy complex concepts.
 
-Other than tech, I enjoy watching soccer (Liverpool fan), NBA (LA Lakers fan), and listening to music. 
+Other than tech, I love traveling and exploring the world, watching soccer (Liverpool fan) and NBA (LA Lakers fan), and listening to music. 
 I am also passionate about photography, particularly fine art and nature.
 
 <!--
