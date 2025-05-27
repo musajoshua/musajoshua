@@ -1,6 +1,6 @@
 ### Hi there 👋🏾, my name is Joshua
 
-I am a versatile software engineer with 6+ years of experience, coupled with a solid academic background in Computer Science and proficient math and problem-solving skills.
+I am a pragmatic software engineer with 6+ years of experience, coupled with a solid academic background in Computer Science and proficient math and problem-solving skills.
 
 I am liberal, open-minded, and believe everything is relative. I love simplicity but enjoy complex concepts.
 
